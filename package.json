@@ -9,6 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.6.0",
     "node-sass": "^4.12.0"
   }
 }
